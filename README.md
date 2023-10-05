@@ -9,7 +9,7 @@ Eu sou um apaixonado por tecnlogia , que está sempre buscando novos conheciment
 
 
 ## Conecte-se comigo 🔗 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/tduarte23/portfolio-tailwind/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thomasportfolio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-duarte-lopes-b32702220/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
@@ -19,13 +19,9 @@ Eu sou um apaixonado por tecnlogia , que está sempre buscando novos conheciment
 ## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-
 ![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
