@@ -1,11 +1,11 @@
 
 # Olá eu sou Thomas Duarte
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e237e&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+tHOMAS+DUARTE;Tenho+24+anos;+Estudo+SISTEMAS+PARA+INTERNET;Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e237e&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+tHOMAS+DUARTE;TENHO+24+ANOS;+ESTUDO+SISTEMAS+PARA+INTERNET;BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
 
 ## 🚀 Sobre mim
-Eu sou um apaixonado por tecnologia , que está sempre buscando novos conhecimentos . Com fono em front end - mobile e Atualmente cursando Sistemas para Internet .
+Eu sou um apaixonado por tecnologia , que está sempre buscando novos conhecimentos . Com foco em front end - mobile e Atualmente cursando Sistemas para Internet .
 
 
 ## Conecte-se comigo 🔗 
