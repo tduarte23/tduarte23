@@ -5,7 +5,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou um apaixonado por tecnologia , que está sempre buscando novos conhecimentos . Com foco em front end - mobile e Atualmente cursando Sistemas para Internet .
+Eu sou um apaixonado por tecnologia , que está sempre buscando novos conhecimentos . Com foco em front end - mobile e Atualmente cursando Sistemas para Internet.
 
 
 ## Conecte-se comigo 🔗 
